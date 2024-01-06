@@ -1,0 +1,71 @@
+
+.youtube img{
+    height: 60px;
+    width: 90px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    
+}
+.items{
+    display: flex;
+    gap: 1rem;
+    justify-content: right;
+    align-items: right;
+    /* position: relative;
+    left: 1500px; */
+    
+}
+.SUGGESTION{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+margin-top: 10px;
+    
+}
+    
+
+.list{
+    font-size:1 rem;
+    border-radius: 5px;
+    padding: 2px 10px 2px;
+background-color: rgba(199, 196, 196, 0.274);
+
+}
+.compass{
+    font-size:1 rem;
+    border-radius: 5px;
+    padding: 5px;
+background-color: rgba(199, 196, 196, 0.274);
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Row1 img{
+    height: 12rem;
+    width: 18rem;
+    border-radius: 20px;
+}
+
+/* .textbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+} */
+/* .section2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.logo2 img{
+    border-radius:100px;
+    height: 4rem;
+    width: 4rem;
+}
+
